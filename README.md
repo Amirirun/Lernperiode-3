@@ -28,4 +28,11 @@ Ich möchte mit Amar ein tic tac toe Spiel erstellen, dafür haben wir uns eine 
 
 [  ] Wenn Zeit ist noch Verbesserungen vornehmen
 
+Heute habe ich ein tic tac toe Spiel in Windforms programmiert( https://www.youtube.com/watch?v=RGsJGLXHOlM). Alles hat gut funktioniert und die meisten Probleme konnte ich lösen, jedoch funktioniert es noch nicht, dass man mit X gewinnen kann. 
 
+## 24.01.2025
+[  ] Das Problem mit dem X lösen
+
+[  ] Ein willkommens Schild machen
+
+[  ] Verschiedene Farben für X und O hinzufügen

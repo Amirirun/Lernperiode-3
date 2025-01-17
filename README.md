@@ -16,10 +16,10 @@ Heute habe ich die Grundlagen von Windforms erlernt und eine Spoouhr programmier
 
 17.01.2025
 
-[ ] Stoppuhr Startbutton (Windforms)
+[  ] Stoppuhr Startbutton (Windforms)
 
-[ ] Stoppuhr Anhaltbutton (Windforms)
+[  ] Stoppuhr Anhaltbutton (Windforms)
 
-[ ] Stoppuhr Stoppbutton (Windforms)
+[  ] Stoppuhr Stoppbutton (Windforms)
 
-[ ] Wenn Zeit ist noch Verbesserungen vornehmen
+[  ] Wenn Zeit ist noch Verbesserungen vornehmen

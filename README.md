@@ -2,7 +2,7 @@
 
 10.01 bis ?.25
 
-Grob-Planung
+## Grob-Planung
 Ich möchte eine Stoppuhr erstellen bei der ich die zeit starten, stoppen und anhalten kann
 
 10.01.2025
@@ -15,6 +15,7 @@ Heute habe ich die Grundlagen von Windforms erlernt und eine Spoouhr programmier
 
 
 17.01.2025
+## Grob-Planung
 
 [  ] Feld und Zeichen für tic tac toe (Windforms)
 

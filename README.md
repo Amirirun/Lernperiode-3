@@ -5,7 +5,7 @@
 ## Grob-Planung
 Ich möchte eine Stoppuhr erstellen bei der ich die zeit starten, stoppen und anhalten kann
 
-10.01.2025
+## 10.01.2025
 
 [x] Grundlagen Windforms erlernen
 
@@ -14,10 +14,11 @@ Ich möchte eine Stoppuhr erstellen bei der ich die zeit starten, stoppen und an
 Heute habe ich die Grundlagen von Windforms erlernt und eine Spoouhr programmiert. Zuerst wollte ich die Stoppuhr mit Windforms programmieren aber dies viel mir noch ein bisschen schwer, weshalb ich die Stoppuhr erstmal mit der normalen Konsolen Aplikation programmiert habe.
 
 
-17.01.2025
+
 ## Grob-Planung
 Ich möchte mit Amar ein tic tac toe Spiel erstellen, dafür haben wir uns eine Yt Video Reihe vorgenommen um alles richtig zu verstehen.
 
+## 17.01.2025
 
 [  ] Feld und Zeichen für tic tac toe (Windforms)
 

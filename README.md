@@ -16,6 +16,8 @@ Heute habe ich die Grundlagen von Windforms erlernt und eine Spoouhr programmier
 
 17.01.2025
 ## Grob-Planung
+Ich möchte mit Amar ein tic tac toe Spiel erstellen, dafür haben wir uns eine Yt Video Reihe vorgenommen um alles richtig zu verstehen.
+
 
 [  ] Feld und Zeichen für tic tac toe (Windforms)
 

@@ -20,10 +20,12 @@ Ich möchte mit Amar ein tic tac toe Spiel erstellen, dafür haben wir uns eine 
 
 ## 17.01.2025
 
-[  ] Feld und Zeichen für tic tac toe (Windforms)
+[ x ] Feld und Zeichen für tic tac toe (Windforms)
 
-[  ] tic tac toe Programmieren  (Windforms)
+[ x ] tic tac toe Programmieren  (Windforms)
 
-[  ] tic tac toe Testen (Windforms)
+[ x ] tic tac toe Testen (Windforms)
 
 [  ] Wenn Zeit ist noch Verbesserungen vornehmen
+
+

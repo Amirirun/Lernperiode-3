@@ -16,10 +16,10 @@ Heute habe ich die Grundlagen von Windforms erlernt und eine Spoouhr programmier
 
 17.01.2025
 
-[  ] Stoppuhr Startbutton (Windforms)
+[  ] Feld und Zeichen für tic tac toe (Windforms)
 
-[  ] Stoppuhr Anhaltbutton (Windforms)
+[  ] tic tac toe Programmieren  (Windforms)
 
-[  ] Stoppuhr Stoppbutton (Windforms)
+[  ] tic tac toe Testen (Windforms)
 
 [  ] Wenn Zeit ist noch Verbesserungen vornehmen
